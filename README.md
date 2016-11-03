@@ -1,2 +1,2 @@
 # ruby_learning
-Just a repo for tests and testing around ruby
+Just a repo for general learning or testing around ruby
